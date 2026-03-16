@@ -77,7 +77,7 @@ Git • Docker • Linux
 
 ## 😄 Pronouns
 
-He/Him
+She/Her
 
 ## ⚡ Fun fact
 
@@ -107,5 +107,3 @@ I'm particularly interested in:
 - Scalable backend infrastructure
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true)
