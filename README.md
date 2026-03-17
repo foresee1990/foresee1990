@@ -57,47 +57,15 @@ Git • Docker • Linux
 - Open-source AI backend projects  
 - Web3 smart contract development
 
-## 🤔 I’m looking for help with
-
-- LLM system design  
-- Vector database optimization
-
-## 💬 Ask me about
-
-- Java backend development  
-- Distributed systems  
-- AI-powered applications  
-- Web3 development
-
 ## 📫 How to reach me
 
-- GitHub: [your GitHub link]  
-- Email: [your email]  
-- LinkedIn: [your LinkedIn link]
-
-## 😄 Pronouns
-
-She/Her
-
-## ⚡ Fun fact
-
-I enjoy building DIY electronics and experimenting with small AI projects in my free time.
-
-## Architecture Interests
-
-I'm particularly interested in:
-
-- Distributed systems  
-- High-concurrency backend systems  
-- AI application architecture  
-- Vector databases  
-- Event-driven architecture
+- Email: foresee1990@gmail.com
+- LinkedIn:  
 
 ## Learning Roadmap
 
 **Currently learning:**  
-- Spring AI ecosystem  
-- Vector databases  
+- Spring AI ecosystem   
 - RAG system architecture  
 - Solidity smart contracts
 
