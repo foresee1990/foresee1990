@@ -1,77 +1,56 @@
-# Hi there, I'm Rowan 👋
+# Hi, I'm Rowan 👋
 
-Backend Developer focused on building scalable systems, AI-powered applications, and exploring Web3 technologies.  
-Currently interested in distributed systems, LLM applications, and smart contract development.
+### Software Engineering Graduate · Java Backend · AI Applications
 
-## About Me
+Building backend systems and AI-powered applications.
 
-I'm a backend developer passionate about building reliable and scalable systems.
+Interested in **backend engineering, the Spring ecosystem, and LLM applications.**
 
-My main focus areas include:
+<br>
 
-- Backend engineering with Java & Spring ecosystem
-- Distributed system design
-- AI application development (LLM + RAG)
-- Web3 smart contract development
+## ⚙️ Tech Stack
 
-I enjoy learning system architecture and building practical projects that combine modern backend technologies with AI capabilities.
+### Backend
 
-## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
 
-**Backend**  
-Java • Spring Boot • Spring MVC • MyBatis • MyBatis-Plus
+### AI & Data
 
-**Database**  
-MySQL • PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,redis" />
+</p>
 
-**Cache & Storage**  
-Redis
+`Spring AI` · `RAG` · `Ollama` · `pgvector`
 
-**Messaging**  
-RabbitMQ
+### Infrastructure
 
-**AI**  
-Spring AI • Retrieval-Augmented Generation (RAG)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,rabbitmq" />
+</p>
 
-**Web3**  
-Solidity • Smart Contracts
+### Frontend & Other
 
-**Tools**  
-Git • Docker • Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,git,solidity" />
+</p>
 
-## 🔭 I’m currently working on
+<br>
 
-- TechVerse – Technical Community Platform  
-  Backend system for a technical sharing community with JWT auth, article publishing, async notifications, Redis caching, and high concurrency handling.  
-  GitHub Repo: [link]
+## 🌱 Currently Exploring
 
-## 🌱 I’m currently learning
+**Spring AI · RAG Architecture · Backend Engineering · AI Applications**
 
-- Spring AI ecosystem  
-- Vector databases  
-- RAG system architecture  
-- Solidity smart contracts
+<br>
 
-## 👯 I’m looking to collaborate on
+## 📫 Contact
 
-- Open-source AI backend projects  
-- Web3 smart contract development
-
-## 📫 How to reach me
-
-- Email: foresee1990@gmail.com
-- LinkedIn:  
-
-## Learning Roadmap
-
-**Currently learning:**  
-- Spring AI ecosystem   
-- RAG system architecture  
-- Solidity smart contracts
-
-**Planned topics:**  
-- AI system architecture  
-- Distributed AI applications  
-- Scalable backend infrastructure
-
----
+<p>
+  <a href="mailto:foresee1990@gmail.com">
+    <img src="https://img.shields.io/badge/Email-foresee1990%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/foresee1990">
+    <img src="https://img.shields.io/badge/GitHub-foresee1990-555?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
